@@ -1,6 +1,7 @@
 package Interfejsy;
 
 import java.time.Duration;
+import java.util.Scanner;
 
 public interface Mikrofala {
 //    void start();
